@@ -1,7 +1,7 @@
 # game4automation-Community
 
 
-Welcome to the game4automation-Community the place to exchange additonal Game4Automation industrial components like kinematic and logical 3D components or additional automation interfaces. We invite our more than 600 users to share and participate.
+Welcome to the game4automation-Community, the place to exchange additonal Game4Automation industrial components like kinematic and logical 3D components or additional automation interfaces. We invite our more than 600 users to share and participate.
 
 ![game4automation-community](https://user-images.githubusercontent.com/48594799/136356789-886016ef-77b3-4d90-b9ff-dbb70d919fbb.png)
 
