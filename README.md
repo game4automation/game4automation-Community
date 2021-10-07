@@ -9,12 +9,14 @@ game4automation-Community needs to be checked out into the directory Assets\game
 Game4Automation is a Unity based framework for simulation and virtual commissioning of industrial processes.
 
 For using components of game4automation-Community or adding your own components you need to use Game4Automation-Starter or Game4Automation Professional. You can get them on the Unity Assset Store here:
-Professional Version
+
+**Professional Version**
 https://assetstore.unity.com/packages/tools/utilities/game4automation-digital-twin-professional-143543
-Starter Version
+
+**Starter Version**
 https://assetstore.unity.com/packages/tools/utilities/game4automation-digital-twin-starter-139866
 
-Contributing your own components to game4automation-Community
+##Contributing your own components to game4automation-Community
 
 We would be very happy if you are contributing components to game4automation-Community. You could use GitHub to push your contributed components or you could send your components to info@game4automation.com.
 
