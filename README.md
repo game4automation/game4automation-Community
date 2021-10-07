@@ -33,6 +33,6 @@ Please follow these rules if you are contributing components:
 - use always the latest Game4Automation Version (Starter or Professional)
 - create your own subfolder with your name under Assets\game4automation-Community, e.g. like we did Assets\game4automation-Community\in2sight
 - include everything what is needed into your subfolder, including materials, 3d prefabs, additionals scripts and so on 
-
+- if needed please add some documentation in your subfolder as a README.md file.
 
 More information can be found on the Website https://game4automation.com
