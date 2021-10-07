@@ -15,6 +15,12 @@ https://assetstore.unity.com/packages/tools/utilities/game4automation-digital-tw
 **Starter Version**
 https://assetstore.unity.com/packages/tools/utilities/game4automation-digital-twin-starter-139866
 
+## Staying up to date
+
+If you would like to be updated about new relases, events and changes on game4automation-Community please join our Linked-In User group here:
+https://www.linkedin.com/groups/9004088/
+
+
 ## Using game4automation-Community
 
 You can use game4automation-Community free of charge but you will need to have a Game4Automation-Starter or Game4Automation Professional license (you can already start for about 10$)
