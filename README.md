@@ -5,7 +5,7 @@ Welcome to the game4automation-Community, the place to exchange additonal Game4A
 
 ![game4automation-community](https://user-images.githubusercontent.com/48594799/136356789-886016ef-77b3-4d90-b9ff-dbb70d919fbb.png)
 
-Game4Automation is a Unity based framework for simulation and virtual commissioning of industrial processes.
+Game4Automation is a Unity based framework for simulation and virtual commissioning of industrial processes. More information can be found on our Website https://game4automation.com
 
 For using components of game4automation-Community or adding your own components you need to use Game4Automation-Starter or Game4Automation Professional. You can get them on the Unity Assset Store here:
 
@@ -35,4 +35,4 @@ Please follow these rules if you are contributing components:
 - include everything what is needed into your subfolder, including materials, 3d prefabs, additionals scripts and so on 
 - if needed please add some documentation in your subfolder as a README.md file.
 
-More information can be found on the Website https://game4automation.com
+
